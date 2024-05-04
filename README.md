@@ -2,7 +2,6 @@
 - 👀 I’m interested in learning programming.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on projects.
-- 📫 How to reach me - https://www.instagram.com/boay_kd?igsh=MWhoMGdxdXRicWls
 - 😄 Pronouns: he/him.
 - ⚡ Interesting fact: Github isn't just about storing your code; it's about collaboration.
 
